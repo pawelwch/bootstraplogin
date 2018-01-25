@@ -1,0 +1,25 @@
+*
+{
+    color: white;
+}
+.bg {
+    background: url(img/3.jpeg) 60% 72% no-repeat;
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.form-container {
+    border: 0px solid white;
+    padding: 50px 60px;
+    margin-top: 17vh;
+    -webkit-box-shadow: -1px 4px 25px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 4px 25px 10px rgba(0,0,0,0.75);
+    box-shadow: -1px 4px 25px 10px rgba(0,0,0,0.75);
+}
+
+    .form-container h1 {
+        font-weight: bold;
+        font-family: 'Bitter', serif;
+        padding-bottom: 30px;
+    }
